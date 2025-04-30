@@ -9,4 +9,5 @@
 ## Список ДЗ
 
 * [Python](Python/)
+* [ML](ML/)
 * To be continued
